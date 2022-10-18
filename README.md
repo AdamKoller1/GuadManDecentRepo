@@ -1,2 +1,2 @@
-# GuadManDecentRepo
-repo for a small project
+## Project is Currently in the Brainstorming Phase
+Loading...
